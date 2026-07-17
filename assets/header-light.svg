@@ -1,0 +1,35 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" fill="#FAFAFA"/>
+
+  <rect x="0" y="0" width="1200" height="36" fill="#F0F0F1"/>
+  <circle cx="24" cy="18" r="6" fill="#E45649"/>
+  <circle cx="46" cy="18" r="6" fill="#986801"/>
+  <circle cx="68" cy="18" r="6" fill="#50A14F"/>
+  <text x="100" y="23" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" fill="#A0A1A7">~/nothing0g/profile.md</text>
+
+  <text x="48" y="90" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15" fill="#A0A1A7">1</text>
+  <text x="80" y="90" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="17" fill="#A626A4">const</text>
+  <text x="140" y="90" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="17" fill="#4078F2">developer</text>
+  <text x="248" y="90" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="17" fill="#383A42"> = {</text>
+
+  <text x="48" y="130" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15" fill="#A0A1A7">2</text>
+  <text x="80" y="130" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="34" font-weight="700" fill="#E45649">Shubham Kumar</text>
+
+  <text x="48" y="168" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15" fill="#A0A1A7">3</text>
+  <text x="80" y="168" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" fill="#383A42">role: </text>
+  <text x="140" y="168" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" fill="#50A14F">"mechanical engineer &#8594; data analyst"</text>
+
+  <text x="48" y="200" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15" fill="#A0A1A7">4</text>
+  <text x="80" y="200" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" fill="#383A42">stack: </text>
+  <text x="150" y="200" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" fill="#986801">[</text>
+  <text x="160" y="200" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" fill="#50A14F">"python", "sql", "ml"</text>
+  <text x="330" y="200" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="16" fill="#986801">]</text>
+
+  <text x="48" y="232" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15" fill="#A0A1A7">5</text>
+  <text x="80" y="232" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="17" fill="#383A42">};</text>
+
+  <rect x="1000" y="60" width="1" height="160" fill="#E5E5E6"/>
+  <text x="1030" y="90" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#A0A1A7">DTU '27</text>
+  <text x="1030" y="115" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#A0A1A7">New Delhi, IN</text>
+  <text x="1030" y="140" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#4078F2">@Nothing0g</text>
+</svg>
